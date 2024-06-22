@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.top-container{
+    background-image: url(/images/4.jpg);
+    height: 47rem !important;
+}
+.btn-main{
+    background-color: rgba(213, 159, 78, 0.75);
+}
+.btn-main:hover{
+    cursor: pointer;
+    background-color: rgba(213, 159, 78, 0.75);
+}
+.welcome-span{
+    color: #d59f4e;
+}
+.welcome-para{
+    color: #8A8A8A;
+}
+.services-section{
+    background-color: #FAFAFA;
+}
+.choose-right{
+    margin-left: -15rem;
+}
+.projects-section{
+    background-color: #FAFAFA;
+}
+.quote-section{
+    background-color: #323232;
+}
+.footer-section{
+    background-color: #070707;
+}
+.footer-text{
+    color: #8A8A8A;
+}
+.footer-link{
+    color: #8A8A8A;
+}
+.footer-link:hover{
+    color: blue;
+}
+.footer-para{
+    color: #8a8a8a;
+}
+
+/* ######################### */
+.about-top-container{
+    background-image: url(/images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.about-welcome-section{
+    background-color: #fafafa;
+}
+.company-banner{
+    background-image: url(/images/4.jpg);
+    background-size: cover;
+}
+
+.blog-title-link{
+    color: #070707;
+}
+.blog-title-link:hover{
+    color: gold !important;
+}
